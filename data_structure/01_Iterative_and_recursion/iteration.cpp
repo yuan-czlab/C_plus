@@ -36,6 +36,7 @@ int whileLoopII(int n){
     i++;
     i *= 2;
   }
+  return res;
 }
 
 int main(){

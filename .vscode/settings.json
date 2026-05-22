@@ -1,0 +1,17 @@
+{
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.cStandard": "c17",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**"
+    ],
+    "files.associations": {
+        "*.h": "cpp",
+        "algorithm": "cpp",
+        "array": "cpp",
+        "chrono": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    }
+}

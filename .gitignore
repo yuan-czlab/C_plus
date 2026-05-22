@@ -1,3 +1,17 @@
 
-.vscode/
+# Build output
+build/
 *.exe
+*.out
+*.o
+*.obj
+*.dll
+*.dylib
+*.so
+*.pdb
+*.ilk
+*.dSYM/
+
+# VS Code generated cache
+.vscode/ipch/
+.vscode/.browse.VC.db*
